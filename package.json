@@ -1,0 +1,27 @@
+{
+  "name": "playwright-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "test:webkit": "npx playwright test --project=webkit",
+    "test:report": "npx playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witeknatalia/playwright-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/witeknatalia/playwright-exercise/issues"
+  },
+  "homepage": "https://github.com/witeknatalia/playwright-exercise#readme",
+  "devDependencies": {
+    "@playwright/test": "1.59.1",
+    "@types/node": "25.5.2"
+  }
+}
