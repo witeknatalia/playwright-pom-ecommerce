@@ -1,4 +1,4 @@
-# Playwright Exercise
+# Playwright POM E-commerce Tests
 
 Automated end-to-end tests for [automationexercise.com](https://automationexercise.com) using Playwright and TypeScript
 
@@ -22,7 +22,7 @@ tests/
 ### Setup
 
 ```bash
-git clone https://github.com/witeknatalia/playwright-exercise.git
+git clone https://github.com/witeknatalia/playwright-pom-ecommerce.git
 cd playwright-exercise
 npm install
 ```
